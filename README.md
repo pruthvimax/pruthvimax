@@ -1,4 +1,4 @@
-# Hi 👋 I'm Sharanya S
+# Hi 👋 I'm Pruthvi G
 
 🎓 Computer Science Engineering Student (2024–2027)
 💻 Aspiring Software Engineer | 🤖 AI Enthusiast
@@ -55,21 +55,21 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharanyashree\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pruthvimax\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharanyashree\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvimax\&layout=compact\&theme=tokyonight\&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sharanyashree\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=pruthvimax\&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-* 🔗 LinkedIn: https://www.linkedin.com/in/sharanya-s-sit
-* 💻 GitHub: https://github.com/sharanyashree
+* 🔗 LinkedIn: https://linkedin.com/in/pruthvi-sjec
+* 💻 GitHub: https://github.com/pruthvimax
 
 ---
 
 > “Code. Learn. Build. Repeat.” 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=sharanyashree\&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=pruthvimax\&color=blue)
